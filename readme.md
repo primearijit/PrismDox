@@ -167,6 +167,8 @@ If PrismDOX saves you from a subscription, **⭐ star the repo** and share it �
 
 ## 🙌 Credits
 
+PrismDox was Forked from [ClearPDF](https://github.com/Chethan616/ClearPDF)
+- [ClearPDF](https://github.com/Chethan616/ClearPDF) by Chethan616 — Developer & designer of ClearPDF
 - [AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) by Kyant0 — backdrop / liquid-glass effects (Apache-2.0)
 - [AndroidLiquidGlassView](https://github.com/QmDeve/AndroidLiquidGlassView) by QmDeve — motion techniques (MIT)
 - [PdfBox-Android](https://github.com/TomRoush/PdfBox-Android) by Tom Roush — lossless PDF operations (Apache-2.0)
