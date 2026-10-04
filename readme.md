@@ -12,7 +12,7 @@ No ads · No subscription · No file-size limits · No uploads · Open source.
 <a href="https://github.com/primearijit/PrismDOX/releases/latest"><img src="https://img.shields.io/badge/Download-Latest_APK-0A84FF?style=for-the-badge&logo=android&logoColor=white" alt="Download the latest PrismDOX APK"></a>
 <a href="https://github.com/primearijit/PrismDOX/releases"><img src="https://img.shields.io/github/downloads/primearijit/PrismDOX/total?style=for-the-badge&color=30D158&logo=github" alt="Total downloads"></a>
 <a href="https://github.com/primearijit/PrismDOX/releases/latest"><img src="https://img.shields.io/github/v/release/primearijit/PrismDOX?style=for-the-badge&color=BF5AF2&label=version" alt="Latest version"></a>
-<a href="https://www.instagram.com/primearijit/">"><img src="https://img.shields.io/badge/Instagram-FD1D1d?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow me on Instagram"></a>
+<a href="https://www.instagram.com/primearijit/"><img src="https://img.shields.io/badge/Instagram-FD1D1d?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow me on Instagram"></a>
 
 <img src="https://img.shields.io/badge/Android-6.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 6.0+">
 <img src="https://img.shields.io/badge/Kotlin-Jetpack_Compose-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin + Jetpack Compose">
